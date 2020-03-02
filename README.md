@@ -1,0 +1,1 @@
+Hibernate + PostgeSQL(user <-> auto)
