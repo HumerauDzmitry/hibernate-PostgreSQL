@@ -1,2 +1,2 @@
 # work-with-Strings
-String conversion examples
+Hibernate + PostgeSQL(user <-> auto)
