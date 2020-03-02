@@ -1,2 +1,2 @@
-# work-with-Strings
+# hibernate-PostgreSQL
 Hibernate + PostgeSQL(user <-> auto)
